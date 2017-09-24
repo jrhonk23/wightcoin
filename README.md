@@ -1,0 +1,2 @@
+# wightcoin
+anonymous crypto currency
